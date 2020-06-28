@@ -96,7 +96,7 @@ jalan("\033[1;97m •◈•───────•◈ Fahdi start cloning...•
 
 
 
-jalan("   \033[1;91m itx fahdi x maha clone 
+
 
 
 
